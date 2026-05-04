@@ -1,0 +1,30 @@
+.container {
+    background-color: #f7f8f9; /* Light gray background */
+    color: #333; /* Dark gray text for readability */
+    font-family: Arial, sans-serif; /* Simple, clean font */
+    line-height: 1.5; /* Improved line spacing */
+}
+
+h1, h2, h3 {
+    color: #2a8f6b; /* Soft green for headings */
+}
+
+.link {
+    color: #5c8def; /* Soft blue for links */
+    text-decoration: none; /* No underlines on links */
+}
+.link:hover {
+    text-decoration: underline; /* Underline on hover for clarity */
+}
+
+.button {
+    background-color: #2a8f6b; /* Soft green button */
+    color: white; /* White text on button */
+    padding: 10px 15px; /* Comfortable padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer on hover */
+}
+.button:hover {
+    background-color: #228b5b; /* Darker green on hover */
+}
